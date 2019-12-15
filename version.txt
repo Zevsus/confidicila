@@ -1,2 +1,0 @@
-Release 1.41
-Beta 1.56
